@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @axel407
-- 👀 I’m interested in progrmming 
+- 👀 I’m interested in programming 
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Axel_Jkit@protonmail.com
